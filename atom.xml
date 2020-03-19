@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>juststudy</title>
+  
+  <subtitle>free movie to study</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.p0q.top/"/>
+  <updated>2020-03-19T17:14:33.351Z</updated>
+  <id>https://blog.p0q.top/</id>
+  
+  <author>
+    <name>juststudy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cto-10422</title>
+    <link href="https://blog.p0q.top/2020-03-18/cto-10422/"/>
+    <id>https://blog.p0q.top/2020-03-18/cto-10422/</id>
+    <published>2020-03-17T16:00:00.000Z</published>
+    <updated>2020-03-19T17:14:33.351Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Python数据分析与处理库Pandas快速入门"><a href="#Python数据分析与处理库Pandas快速入门" class="headerlink" title="Python数据分析与处理库Pandas快速入门"></a>Python数据分析与处理库Pandas快速入门</h1><h2 id="适用人群：-数据领域与人工智能方向的的同学们"><a href="#适用人群：-数据领域与人工智能方向的的同学们" class="headerlink" title="适用人群： 数据领域与人工智能方向的的同学们"></a>适用人群： 数据领域与人工智能方向的的同学们</h2><hr><p>共1课时<br>5分36秒<br>2020-03-18更新  </p><hr><ul><li><a href="static/play.html#10422-179236">Python数据分析与处理库Pandas</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Python数据分析与处理库Pandas快速入门&quot;&gt;&lt;a href=&quot;#Python数据分析与处理库Pandas快速入门&quot; class=&quot;headerlink&quot; title=&quot;Python数据分析与处理库Pandas快速入门&quot;&gt;&lt;/a&gt;Python数据分析与处理库
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-10225</title>
+    <link href="https://blog.p0q.top/2020-03-17/cto-10225/"/>
+    <id>https://blog.p0q.top/2020-03-17/cto-10225/</id>
+    <published>2020-03-16T16:00:00.000Z</published>
+    <updated>2020-03-19T17:14:41.649Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简道云数据管理入门"><a href="#简道云数据管理入门" class="headerlink" title="简道云数据管理入门"></a>简道云数据管理入门</h1><h2 id="适用人群：-企业白领、管理人员，物流、餐饮、IT、教育、医疗、政府等行业从业人员。"><a href="#适用人群：-企业白领、管理人员，物流、餐饮、IT、教育、医疗、政府等行业从业人员。" class="headerlink" title="适用人群： 企业白领、管理人员，物流、餐饮、IT、教育、医疗、政府等行业从业人员。"></a>适用人群： 企业白领、管理人员，物流、餐饮、IT、教育、医疗、政府等行业从业人员。</h2><hr><p>共52课时<br>7小时1分43秒<br>2020-03-17更新  </p><hr><ul><li><a href="static/play.html#10225-174317">新手入门</a>  </li><li><a href="static/play.html#10225-174315">应用 VS 表单 VS 仪表盘</a>  </li><li><a href="static/play.html#10225-174314">表单发布</a>  </li><li><a href="static/play.html#10225-533752">知识库</a>  </li><li><a href="static/play.html#10225-174313">基础字段</a>  </li><li><a href="static/play.html#10225-174312">增强字段</a>  </li><li><a href="static/play.html#10225-174311">数据权限</a>  </li><li><a href="static/play.html#10225-174310">选项关联控制</a>  </li><li><a href="static/play.html#10225-533751">表单外链个性化</a>  </li><li><a href="static/play.html#10225-533812">选项关联设置</a>  </li><li><a href="static/play.html#10225-533811">校验</a>  </li><li><a href="static/play.html#10225-533810">公式与函数</a>  </li><li><a href="static/play.html#10225-533809">新数据提醒</a>  </li><li><a href="static/play.html#10225-533808">修改数据提醒</a>  </li><li><a href="static/play.html#10225-533933">到期提醒</a>  </li><li><a href="static/play.html#10225-533932">定时提醒</a>  </li><li><a href="static/play.html#10225-174308">流程设计</a>  </li><li><a href="static/play.html#10225-174309">流转规则</a>  </li><li><a href="static/play.html#10225-174307">抄送</a>  </li><li><a href="static/play.html#10225-533959">流程版本</a>  </li><li><a href="static/play.html#10225-533958">流程协作管理</a>  </li><li><a href="static/play.html#10225-533957">自由选择负责人</a>  </li><li><a href="static/play.html#10225-533956">流程案例1 : 报销</a>  </li><li><a href="static/play.html#10225-533955">流程案例2 : 一周工作总结</a>  </li><li><a href="static/play.html#10225-533954">流程案例3 ：派单或分配任务</a>  </li><li><a href="static/play.html#10225-174306">统计表</a>  </li><li><a href="static/play.html#10225-533953">仪表盘个性化配色</a>  </li><li><a href="static/play.html#10225-533952">明细表</a>  </li><li><a href="static/play.html#10225-533951">地图</a>  </li><li><a href="static/play.html#10225-533950">双轴图</a>  </li><li><a href="static/play.html#10225-533949">数据管理组件</a>  </li><li><a href="static/play.html#10225-533948">筛选与查询</a>  </li><li><a href="static/play.html#10225-533947">数据显示格式</a>  </li><li><a href="static/play.html#10225-533946">定时提醒</a>  </li><li><a href="static/play.html#10225-174305">聚合表</a>  </li><li><a href="static/play.html#10225-174304">智能助手</a>  </li><li><a href="static/play.html#10225-174301">新增数据</a>  </li><li><a href="static/play.html#10225-174299">修改已有数据</a>  </li><li><a href="static/play.html#10225-174302">删除已有数据</a>  </li><li><a href="static/play.html#10225-174303">修改或新增数据</a>  </li><li><a href="static/play.html#10225-174298">子表单修改/新增主表数据</a>  </li><li><a href="static/play.html#10225-174297">子表单新增子表单数据</a>  </li><li><a href="static/play.html#10225-174296">主表修改子表单数据</a>  </li><li><a href="static/play.html#10225-174294">子表修改子表数据</a>  </li><li><a href="static/play.html#10225-174292">数据工厂</a>  </li><li><a href="static/play.html#10225-174293">钉钉绑定</a>  </li><li><a href="static/play.html#10225-174289">组织架构同步问题</a>  </li><li><a href="static/play.html#10225-174290">知识库介绍</a>  </li><li><a href="static/play.html#10225-174291">企业信息化知识管理精品课程</a>  </li><li><a href="static/play.html#10225-174286">跨应用</a>  </li><li><a href="static/play.html#10225-174288">自定义打印</a>  </li><li><a href="static/play.html#10225-174287">套打</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;简道云数据管理入门&quot;&gt;&lt;a href=&quot;#简道云数据管理入门&quot; class=&quot;headerlink&quot; title=&quot;简道云数据管理入门&quot;&gt;&lt;/a&gt;简道云数据管理入门&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-企业白领、管理人员，物流、餐饮、IT、教育、医疗、政府等行业从
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-16575</title>
+    <link href="https://blog.p0q.top/2020-03-15/cto-16575/"/>
+    <id>https://blog.p0q.top/2020-03-15/cto-16575/</id>
+    <published>2020-03-14T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:39.048Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="微信小程序框架的制作"><a href="#微信小程序框架的制作" class="headerlink" title="微信小程序框架的制作"></a>微信小程序框架的制作</h1><h2 id="适用人群：-微信小程序开发爱好者-微信小程序前端设计人员-微信小程序前端开发人员"><a href="#适用人群：-微信小程序开发爱好者-微信小程序前端设计人员-微信小程序前端开发人员" class="headerlink" title="适用人群： 微信小程序开发爱好者,微信小程序前端设计人员,微信小程序前端开发人员"></a>适用人群： 微信小程序开发爱好者,微信小程序前端设计人员,微信小程序前端开发人员</h2><hr><p>共11课时<br>49分33秒<br>2020-03-15更新  </p><hr><ul><li><a href="static/play.html#16575-419745">微信小程序入门到就业课（全栈课）学习说明【建议看下】</a>  </li><li><a href="static/play.html#16575-348906">作品演示，课程介绍</a>  </li><li><a href="static/play.html#16575-348905">开发准备：账号申请，准备小程序的APPID</a>  </li><li><a href="static/play.html#16575-348898">微信开发者工具安装</a>  </li><li><a href="static/play.html#16575-348897">第一个默认小程序介绍</a>  </li><li><a href="static/play.html#16575-348904">小程序目录结构分析</a>  </li><li><a href="static/play.html#16575-348903">改造默认的小程序</a>  </li><li><a href="static/play.html#16575-348902">App.json-pages讲解和如何新增加程序页面</a>  </li><li><a href="static/play.html#16575-348901">App.json-tabBa讲解</a>  </li><li><a href="static/play.html#16575-348900">App.json-window和(子)页面配置讲解</a>  </li><li><a href="static/play.html#16575-348899">小程序框架的应用-建立企业站框架</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;微信小程序框架的制作&quot;&gt;&lt;a href=&quot;#微信小程序框架的制作&quot; class=&quot;headerlink&quot; title=&quot;微信小程序框架的制作&quot;&gt;&lt;/a&gt;微信小程序框架的制作&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-微信小程序开发爱好者-微信小程序前端设计人员-微信小程
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-10865</title>
+    <link href="https://blog.p0q.top/2020-03-10/cto-10865/"/>
+    <id>https://blog.p0q.top/2020-03-10/cto-10865/</id>
+    <published>2020-03-09T16:00:00.000Z</published>
+    <updated>2020-03-19T17:13:25.956Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Office高效办公技巧精讲"><a href="#Office高效办公技巧精讲" class="headerlink" title="Office高效办公技巧精讲"></a>Office高效办公技巧精讲</h1><h2 id="适用人群：-需要使用Office办公软件的商务人士"><a href="#适用人群：-需要使用Office办公软件的商务人士" class="headerlink" title="适用人群： 需要使用Office办公软件的商务人士"></a>适用人群： 需要使用Office办公软件的商务人士</h2><hr><p>共12课时<br>4小时27分45秒<br>2020-03-10更新  </p><hr><ul><li><a href="static/play.html#10865-190216">效率提升小技巧和段落设置</a>  </li><li><a href="static/play.html#10865-190215">灵活的表格设计和制表符设置</a>  </li><li><a href="static/play.html#10865-190214">项目编号和邮件合并批量制作文档</a>  </li><li><a href="static/play.html#10865-207429">长篇商业文档排版技巧</a>  </li><li><a href="static/play.html#10865-529720">《Word邮件合并全攻略》课程已经上线了</a>  </li><li><a href="static/play.html#10865-190213">源数据的系统录入及整理</a>  </li><li><a href="static/play.html#10865-190212">与公式和函数的亲密接触</a>  </li><li><a href="static/play.html#10865-190211">大数据有效分析和深度挖掘</a>  </li><li><a href="static/play.html#10865-190210">别人的模板真的是你制作PPT的神器吗？</a>  </li><li><a href="static/play.html#10865-207420">《商务精英PPT集训营》课程已经上线了</a>  </li><li><a href="static/play.html#10865-326260">幻灯片制作三要素：主题、版式和母版</a>  </li><li><a href="static/play.html#10865-326259">4步骤大段文字变身为PPT</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Office高效办公技巧精讲&quot;&gt;&lt;a href=&quot;#Office高效办公技巧精讲&quot; class=&quot;headerlink&quot; title=&quot;Office高效办公技巧精讲&quot;&gt;&lt;/a&gt;Office高效办公技巧精讲&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-需要使用Office办
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-11456</title>
+    <link href="https://blog.p0q.top/2020-03-04/cto-11456/"/>
+    <id>https://blog.p0q.top/2020-03-04/cto-11456/</id>
+    <published>2020-03-03T16:00:00.000Z</published>
+    <updated>2020-03-19T17:13:05.870Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="EVE-GNS3-VMware虚拟环境搭建实战"><a href="#EVE-GNS3-VMware虚拟环境搭建实战" class="headerlink" title="EVE+GNS3+VMware虚拟环境搭建实战"></a>EVE+GNS3+VMware虚拟环境搭建实战</h1><h2 id="适用人群：-①相关专业的学生和老师（计算机类、信息类、通信类、电子类等）-②网络技术爱好者-③网络工程师"><a href="#适用人群：-①相关专业的学生和老师（计算机类、信息类、通信类、电子类等）-②网络技术爱好者-③网络工程师" class="headerlink" title="适用人群： ①相关专业的学生和老师（计算机类、信息类、通信类、电子类等） ②网络技术爱好者 ③网络工程师"></a>适用人群： ①相关专业的学生和老师（计算机类、信息类、通信类、电子类等） ②网络技术爱好者 ③网络工程师</h2><hr><p>共7课时<br>2小时21分46秒<br>2020-03-04更新  </p><hr><ul><li><a href="static/play.html#11456-206624">GNS3安装</a>  </li><li><a href="static/play.html#11456-206623">安装虚拟机及虚拟网卡</a>  </li><li><a href="static/play.html#11456-206622">GNS3联动VM</a>  </li><li><a href="static/play.html#11456-206621">EVE安装</a>  </li><li><a href="static/play.html#11456-206620">添加IOS设备</a>  </li><li><a href="static/play.html#11456-206619">添加IOL设备</a>  </li><li><a href="static/play.html#11456-206618">添加QEMU设备</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;EVE-GNS3-VMware虚拟环境搭建实战&quot;&gt;&lt;a href=&quot;#EVE-GNS3-VMware虚拟环境搭建实战&quot; class=&quot;headerlink&quot; title=&quot;EVE+GNS3+VMware虚拟环境搭建实战&quot;&gt;&lt;/a&gt;EVE+GNS3+VMware虚拟
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-15676</title>
+    <link href="https://blog.p0q.top/2020-03-03/cto-15676/"/>
+    <id>https://blog.p0q.top/2020-03-03/cto-15676/</id>
+    <published>2020-03-02T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:32.667Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Word实用技能培训精讲"><a href="#Word实用技能培训精讲" class="headerlink" title="Word实用技能培训精讲"></a>Word实用技能培训精讲</h1><h2 id="适用人群：-不分级别（除非常初级的用户外）、不分版本（07及以上版本均可）、不分行业部门（学生亦可）"><a href="#适用人群：-不分级别（除非常初级的用户外）、不分版本（07及以上版本均可）、不分行业部门（学生亦可）" class="headerlink" title="适用人群： 不分级别（除非常初级的用户外）、不分版本（07及以上版本均可）、不分行业部门（学生亦可）"></a>适用人群： 不分级别（除非常初级的用户外）、不分版本（07及以上版本均可）、不分行业部门（学生亦可）</h2><hr><p>共29课时<br>11小时47分32秒<br>2020-03-03更新  </p><hr><ul><li><a href="static/play.html#15676-323467">[0-1] 课程介绍（务必先看文字课程简介）</a>  </li><li><a href="static/play.html#15676-326489">[0-2] 邮件合并（4-2上）</a>  </li><li><a href="static/play.html#15676-337367">[1-1] 字体</a>  </li><li><a href="static/play.html#15676-343781">[1-2] 段落</a>  </li><li><a href="static/play.html#15676-346625">[1-3] 标尺与缩进</a>  </li><li><a href="static/play.html#15676-348071">[1-4] 制表符</a>  </li><li><a href="static/play.html#15676-359674">[1-5] 项目符号与编号</a>  </li><li><a href="static/play.html#15676-392567">[1-6] 边框与底纹</a>  </li><li><a href="static/play.html#15676-398712">[1-7] 表格（上）</a>  </li><li><a href="static/play.html#15676-398711">[1-7] 表格（下）</a>  </li><li><a href="static/play.html#15676-427941">[1-8] 图形（版本更新说明）</a>  </li><li><a href="static/play.html#15676-429866">[1-9] 图片（截屏）</a>  </li><li><a href="static/play.html#15676-429865">[1-9] 图片（编辑）</a>  </li><li><a href="static/play.html#15676-436132">[1-10] 图示（SmartArt）</a>  </li><li><a href="static/play.html#15676-438584">[1-11] 图表</a>  </li><li><a href="static/play.html#15676-445698">[1-12] 域</a>  </li><li><a href="static/play.html#15676-448101">[1-13] 控件</a>  </li><li><a href="static/play.html#15676-448257">[1-14] 文档属性</a>  </li><li><a href="static/play.html#15676-452674">[1-15] 插入对象（嵌入文件）</a>  </li><li><a href="static/play.html#15676-521996">[1-16] 符号（特殊字符）</a>  </li><li><a href="static/play.html#15676-449506">[2-1] 分页与分节</a>  </li><li><a href="static/play.html#15676-449505">[2-2] 分栏</a>  </li><li><a href="static/play.html#15676-452673">[2-3] 页眉与页脚（上）</a>  </li><li><a href="static/play.html#15676-452672">[2-3] 页眉与页脚（下）</a>  </li><li><a href="static/play.html#15676-454893">[2-4] 水印</a>  </li><li><a href="static/play.html#15676-454894">[2-5] 封面</a>  </li><li><a href="static/play.html#15676-456749">[2-6] 页面设置与打印设置（上）</a>  </li><li><a href="static/play.html#15676-456748">[2-6] 页面设置与打印设置（下）</a>  </li><li><a href="static/play.html#15676-521995">[2-7] 审阅和比较文档</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Word实用技能培训精讲&quot;&gt;&lt;a href=&quot;#Word实用技能培训精讲&quot; class=&quot;headerlink&quot; title=&quot;Word实用技能培训精讲&quot;&gt;&lt;/a&gt;Word实用技能培训精讲&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-不分级别（除非常初级的用户外）、不分版
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-6650</title>
+    <link href="https://blog.p0q.top/2020-02-24/cto-6650/"/>
+    <id>https://blog.p0q.top/2020-02-24/cto-6650/</id>
+    <published>2020-02-23T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:29.134Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="产品交互设计实战"><a href="#产品交互设计实战" class="headerlink" title="产品交互设计实战"></a>产品交互设计实战</h1><h2 id="适用人群：-产品经理、产品新人、交互新人、交互设计师、在校学生"><a href="#适用人群：-产品经理、产品新人、交互新人、交互设计师、在校学生" class="headerlink" title="适用人群： 产品经理、产品新人、交互新人、交互设计师、在校学生"></a>适用人群： 产品经理、产品新人、交互新人、交互设计师、在校学生</h2><hr><p>共7课时<br>2小时3分49秒<br>2020-02-24更新  </p><hr><ul><li><a href="static/play.html#6650-115271">产品&amp;交互新人容易犯的n个错误</a>  </li><li><a href="static/play.html#6650-115732">别让这几种细节毁掉你的APP</a>  </li><li><a href="static/play.html#6650-115272">移动端、PC端产品【注册/登录】需要注意的问题</a>  </li><li><a href="static/play.html#6650-115273">8种移动APP导航栏设计对比</a>  </li><li><a href="static/play.html#6650-115350">复选框和开关的最佳设计</a>  </li><li><a href="static/play.html#6650-121358">文本输入框设计</a>  </li><li><a href="static/play.html#6650-122122">容错性设计原则</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;产品交互设计实战&quot;&gt;&lt;a href=&quot;#产品交互设计实战&quot; class=&quot;headerlink&quot; title=&quot;产品交互设计实战&quot;&gt;&lt;/a&gt;产品交互设计实战&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-产品经理、产品新人、交互新人、交互设计师、在校学生&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-19478</title>
+    <link href="https://blog.p0q.top/2020-02-18/cto-19478/"/>
+    <id>https://blog.p0q.top/2020-02-18/cto-19478/</id>
+    <published>2020-02-17T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:40.244Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2020年HTML-CSS零基础入学宝典【渡一教育】"><a href="#2020年HTML-CSS零基础入学宝典【渡一教育】" class="headerlink" title="2020年HTML+CSS零基础入学宝典【渡一教育】"></a>2020年HTML+CSS零基础入学宝典【渡一教育】</h1><h2 id="适用人群：-推荐零基础小白，及web前端入门同学学习"><a href="#适用人群：-推荐零基础小白，及web前端入门同学学习" class="headerlink" title="适用人群： 推荐零基础小白，及web前端入门同学学习"></a>适用人群： 推荐零基础小白，及web前端入门同学学习</h2><hr><p>共70课时<br>48小时26分52秒<br>2020-02-18更新  </p><hr><ul><li><a href="static/play.html#19478-437595">课程概述</a>  </li><li><a href="static/play.html#19478-437594">HTML+CSS概述</a>  </li><li><a href="static/play.html#19478-437593">开发环境准备</a>  </li><li><a href="static/play.html#19478-437592">第一个网页</a>  </li><li><a href="static/play.html#19478-437591">语义化</a>  </li><li><a href="static/play.html#19478-438379">文本元素</a>  </li><li><a href="static/play.html#19478-438378">HTML实体</a>  </li><li><a href="static/play.html#19478-438377">a元素</a>  </li><li><a href="static/play.html#19478-438376">路径的写法</a>  </li><li><a href="static/play.html#19478-438470">图片元素</a>  </li><li><a href="static/play.html#19478-438375">多媒体元素</a>  </li><li><a href="static/play.html#19478-438469">列表元素</a>  </li><li><a href="static/play.html#19478-438468">容器元素</a>  </li><li><a href="static/play.html#19478-438467">元素包含关系</a>  </li><li><a href="static/play.html#19478-438466">练习-百度新闻</a>  </li><li><a href="static/play.html#19478-438833">为网页添加样式</a>  </li><li><a href="static/play.html#19478-438832">常见样式声明</a>  </li><li><a href="static/play.html#19478-438831">选择器</a>  </li><li><a href="static/play.html#19478-438830">层叠</a>  </li><li><a href="static/play.html#19478-438829">继承</a>  </li><li><a href="static/play.html#19478-438828">属性值的计算过程</a>  </li><li><a href="static/play.html#19478-438827">盒模型</a>  </li><li><a href="static/play.html#19478-438826">盒模型应用</a>  </li><li><a href="static/play.html#19478-438825">行盒盒模型</a>  </li><li><a href="static/play.html#19478-438824">常规流</a>  </li><li><a href="static/play.html#19478-438823">常规流练习</a>  </li><li><a href="static/play.html#19478-438822">浮动</a>  </li><li><a href="static/play.html#19478-438821">浮动练习</a>  </li><li><a href="static/play.html#19478-438820">定位</a>  </li><li><a href="static/play.html#19478-438819">定位练习1-二级菜单</a>  </li><li><a href="static/play.html#19478-438818">定位练习2-弹出层</a>  </li><li><a href="static/play.html#19478-438817">定位练习3-轮播图</a>  </li><li><a href="static/play.html#19478-438816">更多的选择器</a>  </li><li><a href="static/play.html#19478-438815">更多的样式</a>  </li><li><a href="static/play.html#19478-438814">背景图练习</a>  </li><li><a href="static/play.html#19478-440045">iframe元素</a>  </li><li><a href="static/play.html#19478-440044">在页面中使用flash</a>  </li><li><a href="static/play.html#19478-440043">表单元素</a>  </li><li><a href="static/play.html#19478-440042">美化表单元素</a>  </li><li><a href="static/play.html#19478-440041">表单练习</a>  </li><li><a href="static/play.html#19478-440014">表格元素</a>  </li><li><a href="static/play.html#19478-440013">其他元素</a>  </li><li><a href="static/play.html#19478-440040">@规则</a>  </li><li><a href="static/play.html#19478-440039">web字体和图标</a>  </li><li><a href="static/play.html#19478-440038">块级格式化上下文</a>  </li><li><a href="static/play.html#19478-440037">布局</a>  </li><li><a href="static/play.html#19478-440036">【扩展】浮动的细节规则</a>  </li><li><a href="static/play.html#19478-440035">【扩展】行高的取值</a>  </li><li><a href="static/play.html#19478-440034">【扩展】body的背景</a>  </li><li><a href="static/play.html#19478-440033">行盒的垂直对齐</a>  </li><li><a href="static/play.html#19478-440032">【扩展】参考线-深入理解字体</a>  </li><li><a href="static/play.html#19478-440031">堆叠上下文</a>  </li><li><a href="static/play.html#19478-440030">【扩展】svg</a>  </li><li><a href="static/play.html#19478-440029">【扩展】数据链接</a>  </li><li><a href="static/play.html#19478-440028">浏览器兼容性</a>  </li><li><a href="static/play.html#19478-440027">居中总结</a>  </li><li><a href="static/play.html#19478-440026">样式补充</a>  </li><li><a href="static/play.html#19478-440025">【重要】项目开发注意事项</a>  </li><li><a href="static/play.html#19478-440024">工程搭建</a>  </li><li><a href="static/play.html#19478-440023">制作页面头部</a>  </li><li><a href="static/play.html#19478-440022">登录注册区域</a>  </li><li><a href="static/play.html#19478-440021">横幅区域</a>  </li><li><a href="static/play.html#19478-440020">热点</a>  </li><li><a href="static/play.html#19478-442002">豆瓣时间和视频</a>  </li><li><a href="static/play.html#19478-440019">豆瓣电影</a>  </li><li><a href="static/play.html#19478-440018">小组和读书</a>  </li><li><a href="static/play.html#19478-440017">豆瓣音乐</a>  </li><li><a href="static/play.html#19478-440016">豆品和同城</a>  </li><li><a href="static/play.html#19478-440015">页脚-完结撒花</a>  </li><li><a href="static/play.html#19478-441208">结语</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;2020年HTML-CSS零基础入学宝典【渡一教育】&quot;&gt;&lt;a href=&quot;#2020年HTML-CSS零基础入学宝典【渡一教育】&quot; class=&quot;headerlink&quot; title=&quot;2020年HTML+CSS零基础入学宝典【渡一教育】&quot;&gt;&lt;/a&gt;2020年HTM
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-10492</title>
+    <link href="https://blog.p0q.top/2020-02-15/cto-10492/"/>
+    <id>https://blog.p0q.top/2020-02-15/cto-10492/</id>
+    <published>2020-02-14T16:00:00.000Z</published>
+    <updated>2020-03-19T17:14:31.172Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Shell脚本编写精讲"><a href="#Shell脚本编写精讲" class="headerlink" title="Shell脚本编写精讲"></a>Shell脚本编写精讲</h1><h2 id="适用人群：-IT民工、运维工程师、运维开发工程师、开发工程师、Linux系统学习者"><a href="#适用人群：-IT民工、运维工程师、运维开发工程师、开发工程师、Linux系统学习者" class="headerlink" title="适用人群： IT民工、运维工程师、运维开发工程师、开发工程师、Linux系统学习者"></a>适用人群： IT民工、运维工程师、运维开发工程师、开发工程师、Linux系统学习者</h2><hr><p>共5课时<br>2小时10分28秒<br>2020-02-15更新  </p><hr><ul><li><a href="static/play.html#10492-180729">编写Shell脚本注意事项与编写打印字体颜色函数</a>  </li><li><a href="static/play.html#10492-180923">批量创建用户</a>  </li><li><a href="static/play.html#10492-180922">监控主机存活状态</a>  </li><li><a href="static/play.html#10492-180921">监控CPU、内存、硬盘和网卡流量利用率</a>  </li><li><a href="static/play.html#10492-180920">监控网站可用性</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Shell脚本编写精讲&quot;&gt;&lt;a href=&quot;#Shell脚本编写精讲&quot; class=&quot;headerlink&quot; title=&quot;Shell脚本编写精讲&quot;&gt;&lt;/a&gt;Shell脚本编写精讲&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-IT民工、运维工程师、运维开发工程师、开发工程
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-10289</title>
+    <link href="https://blog.p0q.top/2020-02-15/cto-10289/"/>
+    <id>https://blog.p0q.top/2020-02-15/cto-10289/</id>
+    <published>2020-02-14T16:00:00.000Z</published>
+    <updated>2020-03-19T17:13:42.006Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="如何提高个人能力精讲"><a href="#如何提高个人能力精讲" class="headerlink" title="如何提高个人能力精讲"></a>如何提高个人能力精讲</h1><h2 id="适用人群：-IT民工、运维工程师、职场人士、应届生"><a href="#适用人群：-IT民工、运维工程师、职场人士、应届生" class="headerlink" title="适用人群： IT民工、运维工程师、职场人士、应届生"></a>适用人群： IT民工、运维工程师、职场人士、应届生</h2><hr><p>共3课时<br>2小时33分10秒<br>2020-02-15更新  </p><hr><ul><li><a href="static/play.html#10289-176670">运维/开发工程师如何准备技术面试？</a>  </li><li><a href="static/play.html#10289-176669">怎么在职场走的更快更远？</a>  </li><li><a href="static/play.html#10289-176668">自卑与自信</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;如何提高个人能力精讲&quot;&gt;&lt;a href=&quot;#如何提高个人能力精讲&quot; class=&quot;headerlink&quot; title=&quot;如何提高个人能力精讲&quot;&gt;&lt;/a&gt;如何提高个人能力精讲&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-IT民工、运维工程师、职场人士、应届生&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-15010</title>
+    <link href="https://blog.p0q.top/2020-02-06/cto-15010/"/>
+    <id>https://blog.p0q.top/2020-02-06/cto-15010/</id>
+    <published>2020-02-05T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:18.669Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Microsoft-Azure-云安全管理快速入门"><a href="#Microsoft-Azure-云安全管理快速入门" class="headerlink" title="Microsoft Azure 云安全管理快速入门"></a>Microsoft Azure 云安全管理快速入门</h1><h2 id="适用人群：-企业安全负责人，企业业务系统迁移至云平台的技术负责人，企业云安全管理从业人员，云安全专业爱好者"><a href="#适用人群：-企业安全负责人，企业业务系统迁移至云平台的技术负责人，企业云安全管理从业人员，云安全专业爱好者" class="headerlink" title="适用人群： 企业安全负责人，企业业务系统迁移至云平台的技术负责人，企业云安全管理从业人员，云安全专业爱好者"></a>适用人群： 企业安全负责人，企业业务系统迁移至云平台的技术负责人，企业云安全管理从业人员，云安全专业爱好者</h2><hr><p>共1课时<br>28分18秒<br>2020-02-06更新  </p><hr><ul><li><a href="static/play.html#15010-301635">Microsoft Azure云安全管理总体介绍</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Microsoft-Azure-云安全管理快速入门&quot;&gt;&lt;a href=&quot;#Microsoft-Azure-云安全管理快速入门&quot; class=&quot;headerlink&quot; title=&quot;Microsoft Azure 云安全管理快速入门&quot;&gt;&lt;/a&gt;Microsoft A
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-19726</title>
+    <link href="https://blog.p0q.top/2020-02-04/cto-19726/"/>
+    <id>https://blog.p0q.top/2020-02-04/cto-19726/</id>
+    <published>2020-02-03T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:30.925Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="CTO的底层源动力–CTO训练营精选视频"><a href="#CTO的底层源动力–CTO训练营精选视频" class="headerlink" title="CTO的底层源动力–CTO训练营精选视频"></a>CTO的底层源动力–CTO训练营精选视频</h1><h2 id="适用人群：-至少5年以上从业经验的技术管理者"><a href="#适用人群：-至少5年以上从业经验的技术管理者" class="headerlink" title="适用人群： 至少5年以上从业经验的技术管理者"></a>适用人群： 至少5年以上从业经验的技术管理者</h2><hr><p>共1课时<br>2分3秒<br>2020-02-04更新  </p><hr><ul><li><a href="static/play.html#19726-447301">CTO训练营-技术管理者的MBA</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;CTO的底层源动力–CTO训练营精选视频&quot;&gt;&lt;a href=&quot;#CTO的底层源动力–CTO训练营精选视频&quot; class=&quot;headerlink&quot; title=&quot;CTO的底层源动力–CTO训练营精选视频&quot;&gt;&lt;/a&gt;CTO的底层源动力–CTO训练营精选视频&lt;/h1&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-10168</title>
+    <link href="https://blog.p0q.top/2020-02-04/cto-10168/"/>
+    <id>https://blog.p0q.top/2020-02-04/cto-10168/</id>
+    <published>2020-02-03T16:00:00.000Z</published>
+    <updated>2020-03-19T17:14:42.951Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ppt拯救之路系列视频精讲"><a href="#ppt拯救之路系列视频精讲" class="headerlink" title="ppt拯救之路系列视频精讲"></a>ppt拯救之路系列视频精讲</h1><h2 id="适用人群：-职场白领、教师、培训师、学生、求职者等全部PPT使用者，尤其适合不能投入太多时间在PPT学习上的朋友"><a href="#适用人群：-职场白领、教师、培训师、学生、求职者等全部PPT使用者，尤其适合不能投入太多时间在PPT学习上的朋友" class="headerlink" title="适用人群： 职场白领、教师、培训师、学生、求职者等全部PPT使用者，尤其适合不能投入太多时间在PPT学习上的朋友"></a>适用人群： 职场白领、教师、培训师、学生、求职者等全部PPT使用者，尤其适合不能投入太多时间在PPT学习上的朋友</h2><hr><p>共2课时<br>43分58秒<br>2020-02-04更新  </p><hr><ul><li><a href="static/play.html#10168-173335">40分钟！让你的PPT马上UP起来（上）</a>  </li><li><a href="static/play.html#10168-172908">40分钟！让你的PPT马上UP起来（下）</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;ppt拯救之路系列视频精讲&quot;&gt;&lt;a href=&quot;#ppt拯救之路系列视频精讲&quot; class=&quot;headerlink&quot; title=&quot;ppt拯救之路系列视频精讲&quot;&gt;&lt;/a&gt;ppt拯救之路系列视频精讲&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-职场白领、教师、培训师、学生、
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-21358</title>
+    <link href="https://blog.p0q.top/2020-02-01/cto-21358/"/>
+    <id>https://blog.p0q.top/2020-02-01/cto-21358/</id>
+    <published>2020-01-31T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:44.077Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1小时学会项目构建工具Maven"><a href="#1小时学会项目构建工具Maven" class="headerlink" title="1小时学会项目构建工具Maven"></a>1小时学会项目构建工具Maven</h1><h2 id="适用人群：-初学者"><a href="#适用人群：-初学者" class="headerlink" title="适用人群： 初学者"></a>适用人群： 初学者</h2><hr><p>共14课时<br>2小时5分19秒<br>2020-02-01更新  </p><hr><ul><li><a href="static/play.html#21358-508450">Maven简介</a>  </li><li><a href="static/play.html#21358-508449">配置Maven环境变量</a>  </li><li><a href="static/play.html#21358-508448">配置maven本地仓库地址</a>  </li><li><a href="static/play.html#21358-508447">maven生命周期-常用命令</a>  </li><li><a href="static/play.html#21358-508446">Maven中的依赖</a>  </li><li><a href="static/play.html#21358-508445">第一种依赖传递</a>  </li><li><a href="static/play.html#21358-508444">第二种依赖方式-parent</a>  </li><li><a href="static/play.html#21358-508443">仓库分类</a>  </li><li><a href="static/play.html#21358-508442">Eclipse配置maven插件</a>  </li><li><a href="static/play.html#21358-508441">使用Eclipse创建maven工程</a>  </li><li><a href="static/play.html#21358-508440">解决jar包冲突</a>  </li><li><a href="static/play.html#21358-508439">Maven分模块工程搭建</a>  </li><li><a href="static/play.html#21358-508438">锁定版本号-service层</a>  </li><li><a href="static/play.html#21358-508437">导入带子工程的maven项目</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;1小时学会项目构建工具Maven&quot;&gt;&lt;a href=&quot;#1小时学会项目构建工具Maven&quot; class=&quot;headerlink&quot; title=&quot;1小时学会项目构建工具Maven&quot;&gt;&lt;/a&gt;1小时学会项目构建工具Maven&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-初学者
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-21170</title>
+    <link href="https://blog.p0q.top/2020-01-19/cto-21170/"/>
+    <id>https://blog.p0q.top/2020-01-19/cto-21170/</id>
+    <published>2020-01-18T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:25.013Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="撩课-全栈系列-微信小程序精讲"><a href="#撩课-全栈系列-微信小程序精讲" class="headerlink" title="撩课-全栈系列-微信小程序精讲"></a>撩课-全栈系列-微信小程序精讲</h1><h2 id="适用人群：-掌握html-css-js基本语法（es部分）学员；有vue或者react开发经验更佳！"><a href="#适用人群：-掌握html-css-js基本语法（es部分）学员；有vue或者react开发经验更佳！" class="headerlink" title="适用人群： 掌握html,css, js基本语法（es部分）学员；有vue或者react开发经验更佳！"></a>适用人群： 掌握html,css, js基本语法（es部分）学员；有vue或者react开发经验更佳！</h2><hr><p>共91课时<br>15小时35分32秒<br>2020-01-19更新  </p><hr><ul><li><a href="static/play.html#21170-501915">01-微信小程序-不同形式客户端体验-形式介绍</a>  </li><li><a href="static/play.html#21170-501914">02-微信小程序-不同形式客户端体验-H5</a>  </li><li><a href="static/play.html#21170-501913">03-微信小程序-不同形式客户端体验-原生App</a>  </li><li><a href="static/play.html#21170-501912">04-微信小程序-不同形式客户端体验-微信二级生态-公众号</a>  </li><li><a href="static/play.html#21170-501911">05-微信小程序-不同形式客户端体验-微信二级生态-小程序</a>  </li><li><a href="static/play.html#21170-501910">06-微信小程序-不同形式客户端体验-开发对比</a>  </li><li><a href="static/play.html#21170-502006">07-微信小程序-开发准备</a>  </li><li><a href="static/play.html#21170-502005">08-微信小程序-开发者工具使用</a>  </li><li><a href="static/play.html#21170-502004">09-微信小程序-小程序基本结构</a>  </li><li><a href="static/play.html#21170-502003">10-微信小程序-小程序各部分组成（重要）</a>  </li><li><a href="static/play.html#21170-502002">11-微信小程序-项目文件基本组织结构</a>  </li><li><a href="static/play.html#21170-502001">12-微信小程序-阶段案例-1</a>  </li><li><a href="static/play.html#21170-502000">13-微信小程序-阶段案例-2</a>  </li><li><a href="static/play.html#21170-501999">14-微信小程序-阶段案例-3</a>  </li><li><a href="static/play.html#21170-501998">15-微信小程序-阶段案例-4</a>  </li><li><a href="static/play.html#21170-501997">16-微信小程序-阶段案例-总结</a>  </li><li><a href="static/play.html#21170-501996">17-微信小程序-配置-上</a>  </li><li><a href="static/play.html#21170-501995">18-微信小程序-配置-下</a>  </li><li><a href="static/play.html#21170-501994">19-微信小程序-配置-案例</a>  </li><li><a href="static/play.html#21170-501993">20-微信小程序-WXML精讲-简介</a>  </li><li><a href="static/play.html#21170-501992">21-微信小程序-WXML精讲-数据绑定-案例1</a>  </li><li><a href="static/play.html#21170-501991">22-微信小程序-WXML精讲-数据绑定-案例2</a>  </li><li><a href="static/play.html#21170-501990">23-微信小程序-WXML精讲-数据绑定-案例3</a>  </li><li><a href="static/play.html#21170-501989">24-微信小程序-WXML精讲-数据绑定-多分支条件渲染</a>  </li><li><a href="static/play.html#21170-501988">25-微信小程序-WXML精讲-数据绑定-block</a>  </li><li><a href="static/play.html#21170-501987">26-微信小程序-WXML精讲-数据绑定-hidden</a>  </li><li><a href="static/play.html#21170-501986">27-微信小程序-WXML精讲-数据绑定-案例4</a>  </li><li><a href="static/play.html#21170-501985">28-微信小程序-WXML精讲-数据绑定-wxfor补充-1</a>  </li><li><a href="static/play.html#21170-501984">29-微信小程序-WXML精讲-数据绑定-wxfor补充-2</a>  </li><li><a href="static/play.html#21170-501983">30-微信小程序-WXML精讲-数据绑定-案例5</a>  </li><li><a href="static/play.html#21170-501982">31-微信小程序-WXML精讲-事件绑定-简介</a>  </li><li><a href="static/play.html#21170-501981">32-微信小程序-WXML精讲-事件绑定-事件类型</a>  </li><li><a href="static/play.html#21170-501980">33-微信小程序-WXML精讲-事件绑定-事件类型演练</a>  </li><li><a href="static/play.html#21170-501979">34-小程序-WXML精讲-事件绑定-函数实现this注意</a>  </li><li><a href="static/play.html#21170-501978">35-微信小程序-WXML精讲-事件绑定-事件对象</a>  </li><li><a href="static/play.html#21170-502205">36-微信小程序-WXML精讲-事件绑定-事件绑定方式</a>  </li><li><a href="static/play.html#21170-502204">37-微信小程序-WXML精讲-事件绑定-案例-步骤1</a>  </li><li><a href="static/play.html#21170-502203">38-微信小程序-WXML精讲-事件绑定-案例-步骤2</a>  </li><li><a href="static/play.html#21170-502202">39-微信小程序-WXML精讲-事件绑定-案例-步骤3</a>  </li><li><a href="static/play.html#21170-502201">40-微信小程序-WXML精讲-事件绑定-案例-步骤4</a>  </li><li><a href="static/play.html#21170-502200">41-微信小程序-WXML精讲-事件绑定-案例-步骤5</a>  </li><li><a href="static/play.html#21170-502199">42-微信小程序-WXML精讲-事件绑定-案例-步骤6</a>  </li><li><a href="static/play.html#21170-502198">43-微信小程序-WXML精讲-事件绑定-案例2</a>  </li><li><a href="static/play.html#21170-502197">44-微信小程序-WXML精讲-模板使用-模板的简单使用</a>  </li><li><a href="static/play.html#21170-502196">45-微信小程序-WXML精讲-模板使用-模板的封装</a>  </li><li><a href="static/play.html#21170-502195">46-微信小程序-WXML精讲-引用-include补充</a>  </li><li><a href="static/play.html#21170-502194">47-微信小程序-WXML精讲-WXS-基本使用</a>  </li><li><a href="static/play.html#21170-502193">48-微信小程序-WXML精讲-WXS-完整使用步骤</a>  </li><li><a href="static/play.html#21170-502192">49-微信小程序-WXML精讲-WXS-语法概览</a>  </li><li><a href="static/play.html#21170-502191">50-微信小程序-WXML精讲-WXS-案例</a>  </li><li><a href="static/play.html#21170-502190">51-微信小程序-WXSS-简单使用总结</a>  </li><li><a href="static/play.html#21170-502189">52-微信小程序-WXSS-尺寸单位rpx</a>  </li><li><a href="static/play.html#21170-502188">53-微信小程序-课外作业-flex布局</a>  </li><li><a href="static/play.html#21170-502187">54-微信小程序-weui-样式基础库</a>  </li><li><a href="static/play.html#21170-502186">55-微信小程序-组件精讲-基本项目创建</a>  </li><li><a href="static/play.html#21170-502185">56-微信小程序-组件精讲-view使用</a>  </li><li><a href="static/play.html#21170-502184">57-微信小程序-组件精讲-view案例</a>  </li><li><a href="static/play.html#21170-502183">58-微信小程序-组件精讲-text使用</a>  </li><li><a href="static/play.html#21170-502182">59-微信小程序-组件精讲-text案例</a>  </li><li><a href="static/play.html#21170-502181">60-微信小程序-组件精讲-image精讲</a>  </li><li><a href="static/play.html#21170-502180">61-微信小程序-组件精讲-icon精讲</a>  </li><li><a href="static/play.html#21170-502179">62-微信小程序-组件精讲-button精讲</a>  </li><li><a href="static/play.html#21170-502178">63-微信小程序-组件精讲-登录案例-1</a>  </li><li><a href="static/play.html#21170-502177">64-微信小程序-组件精讲-登录案例-2</a>  </li><li><a href="static/play.html#21170-502176">65-微信小程序-组件精讲-登录案例-3</a>  </li><li><a href="static/play.html#21170-502175">66-微信小程序-组件精讲-登录案例-4</a>  </li><li><a href="static/play.html#21170-502174">67-微信小程序-组件精讲-登录案例-5</a>  </li><li><a href="static/play.html#21170-502173">68-微信小程序-组件精讲-登录案例-6</a>  </li><li><a href="static/play.html#21170-502172">69-微信小程序-组件精讲-登录案例-7</a>  </li><li><a href="static/play.html#21170-502171">70-微信小程序-组件精讲-登录案例-8</a>  </li><li><a href="static/play.html#21170-502170">71-微信小程序-组件精讲-swiper轮播图案例</a>  </li><li><a href="static/play.html#21170-502169">72-微信小程序-组件精讲-movable滑动组件精讲</a>  </li><li><a href="static/play.html#21170-502168">73-小程序-组件精讲movable-cell滑动删除-上</a>  </li><li><a href="static/play.html#21170-502167">74-小程序-组件精讲-movable-cell滑动删除-中</a>  </li><li><a href="static/play.html#21170-502166">75-小程序-组件精讲-movable-cell滑动删除-下</a>  </li><li><a href="static/play.html#21170-502165">76-微信小程序-组件精讲-scrollView滚动组件</a>  </li><li><a href="static/play.html#21170-502164">77-微信小程序-自定义组件-精讲案例-1</a>  </li><li><a href="static/play.html#21170-502163">78-微信小程序-自定义组件-精讲案例-2</a>  </li><li><a href="static/play.html#21170-502162">79-微信小程序-自定义组件-精讲案例-3</a>  </li><li><a href="static/play.html#21170-502161">80-微信小程序-自定义组件-精讲案例-4</a>  </li><li><a href="static/play.html#21170-502160">81-微信小程序-自定义组件-精讲案例-5</a>  </li><li><a href="static/play.html#21170-502159">82-微信小程序-自定义组件-精讲案例-6</a>  </li><li><a href="static/play.html#21170-502158">83-微信小程序-自定义组件-精讲案例-7</a>  </li><li><a href="static/play.html#21170-502157">84-微信小程序-自定义组件-精讲案例-8</a>  </li><li><a href="static/play.html#21170-502156">85-微信小程序-自定义组件-精讲案例-9</a>  </li><li><a href="static/play.html#21170-502155">86-微信小程序-生命周期</a>  </li><li><a href="static/play.html#21170-502154">87-微信小程序-生命周期-App生命周期</a>  </li><li><a href="static/play.html#21170-502153">88-微信小程序-生命周期-Page生命周期</a>  </li><li><a href="static/play.html#21170-502152">89-微信小程序-生命周期-Component生命周期</a>  </li><li><a href="static/play.html#21170-502151">90-微信小程序-页面跳转和传值</a>  </li><li><a href="static/play.html#21170-502150">91-微信小程序-API概述</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;撩课-全栈系列-微信小程序精讲&quot;&gt;&lt;a href=&quot;#撩课-全栈系列-微信小程序精讲&quot; class=&quot;headerlink&quot; title=&quot;撩课-全栈系列-微信小程序精讲&quot;&gt;&lt;/a&gt;撩课-全栈系列-微信小程序精讲&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-掌握html-
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-21267</title>
+    <link href="https://blog.p0q.top/2020-01-18/cto-21267/"/>
+    <id>https://blog.p0q.top/2020-01-18/cto-21267/</id>
+    <published>2020-01-17T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:23.686Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HTML零基础入门-百度搜索案例"><a href="#HTML零基础入门-百度搜索案例" class="headerlink" title="HTML零基础入门+百度搜索案例"></a>HTML零基础入门+百度搜索案例</h1><h2 id="适用人群：-零基础学员，在校大学生"><a href="#适用人群：-零基础学员，在校大学生" class="headerlink" title="适用人群： 零基础学员，在校大学生"></a>适用人群： 零基础学员，在校大学生</h2><hr><p>共10课时<br>2小时10分9秒<br>2020-01-18更新  </p><hr><ul><li><a href="static/play.html#21267-505438">快速了解网页和网站</a>  </li><li><a href="static/play.html#21267-505437">工欲善其事必先利其器</a>  </li><li><a href="static/play.html#21267-505436">3分钟创建自己的网页</a>  </li><li><a href="static/play.html#21267-505435">标题标签、文本标签、段落标签</a>  </li><li><a href="static/play.html#21267-505434">图片标签</a>  </li><li><a href="static/play.html#21267-505433">超链接标签</a>  </li><li><a href="static/play.html#21267-505432">有序列表和无序列表</a>  </li><li><a href="static/play.html#21267-505431">表格标签</a>  </li><li><a href="static/play.html#21267-505430">表单元素</a>  </li><li><a href="static/play.html#21267-505429">HTML实现百度搜索案例</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;HTML零基础入门-百度搜索案例&quot;&gt;&lt;a href=&quot;#HTML零基础入门-百度搜索案例&quot; class=&quot;headerlink&quot; title=&quot;HTML零基础入门+百度搜索案例&quot;&gt;&lt;/a&gt;HTML零基础入门+百度搜索案例&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-零基础
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-21281</title>
+    <link href="https://blog.p0q.top/2020-01-17/cto-21281/"/>
+    <id>https://blog.p0q.top/2020-01-17/cto-21281/</id>
+    <published>2020-01-16T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:25.337Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2020门店运营增长宝典"><a href="#2020门店运营增长宝典" class="headerlink" title="2020门店运营增长宝典"></a>2020门店运营增长宝典</h1><h2 id="适用人群：-实体店老板，互联网运营，私域流量兴趣爱好者"><a href="#适用人群：-实体店老板，互联网运营，私域流量兴趣爱好者" class="headerlink" title="适用人群： 实体店老板，互联网运营，私域流量兴趣爱好者"></a>适用人群： 实体店老板，互联网运营，私域流量兴趣爱好者</h2><hr><p>共7课时<br>3小时25分46秒<br>2020-01-17更新  </p><hr><ul><li><a href="static/play.html#21281-506239">私域流量+新零售四大趋势</a>  </li><li><a href="static/play.html#21281-506238">如何打造个人IP账号</a>  </li><li><a href="static/play.html#21281-506237">私域流量&amp;社群运营六部曲</a>  </li><li><a href="static/play.html#21281-506236">企业微信如何赋能私域流量</a>  </li><li><a href="static/play.html#21281-506235">门店私域流量转化技巧</a>  </li><li><a href="static/play.html#21281-506234">私域流量+水果行业解决方案</a>  </li><li><a href="static/play.html#21281-506233">私域流量+快时尚零售解决方案</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;2020门店运营增长宝典&quot;&gt;&lt;a href=&quot;#2020门店运营增长宝典&quot; class=&quot;headerlink&quot; title=&quot;2020门店运营增长宝典&quot;&gt;&lt;/a&gt;2020门店运营增长宝典&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-实体店老板，互联网运营，私域流量兴趣爱
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-11261</title>
+    <link href="https://blog.p0q.top/2020-01-15/cto-11261/"/>
+    <id>https://blog.p0q.top/2020-01-15/cto-11261/</id>
+    <published>2020-01-14T16:00:00.000Z</published>
+    <updated>2020-03-19T17:14:09.355Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="CamtasiaStudio9视频录制及后期编辑方法"><a href="#CamtasiaStudio9视频录制及后期编辑方法" class="headerlink" title="CamtasiaStudio9视频录制及后期编辑方法"></a>CamtasiaStudio9视频录制及后期编辑方法</h1><h2 id="适用人群：-教育工作者录制视频，软件开发者录制产品演示功能，各行各业均可用到。"><a href="#适用人群：-教育工作者录制视频，软件开发者录制产品演示功能，各行各业均可用到。" class="headerlink" title="适用人群： 教育工作者录制视频，软件开发者录制产品演示功能，各行各业均可用到。"></a>适用人群： 教育工作者录制视频，软件开发者录制产品演示功能，各行各业均可用到。</h2><hr><p>共4课时<br>1小时39分22秒<br>2020-01-15更新  </p><hr><ul><li><a href="static/play.html#11261-201333">Camtasia 安转</a>  </li><li><a href="static/play.html#11261-201352">Camtasia 录制</a>  </li><li><a href="static/play.html#11261-201351">Camtasia 后期编辑</a>  </li><li><a href="static/play.html#11261-201359">Camtasia安装包</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;CamtasiaStudio9视频录制及后期编辑方法&quot;&gt;&lt;a href=&quot;#CamtasiaStudio9视频录制及后期编辑方法&quot; class=&quot;headerlink&quot; title=&quot;CamtasiaStudio9视频录制及后期编辑方法&quot;&gt;&lt;/a&gt;Camtasia
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-20397</title>
+    <link href="https://blog.p0q.top/2020-01-14/cto-20397/"/>
+    <id>https://blog.p0q.top/2020-01-14/cto-20397/</id>
+    <published>2020-01-13T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:41.257Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="【RPA】零基础学UiBot实战案例"><a href="#【RPA】零基础学UiBot实战案例" class="headerlink" title="【RPA】零基础学UiBot实战案例"></a>【RPA】零基础学UiBot实战案例</h1><h2 id="适用人群：-1、对RPA和办公自动化有需求的初学者-2、想了解RPA、学习国产编程语言的程序员"><a href="#适用人群：-1、对RPA和办公自动化有需求的初学者-2、想了解RPA、学习国产编程语言的程序员" class="headerlink" title="适用人群： 1、对RPA和办公自动化有需求的初学者 2、想了解RPA、学习国产编程语言的程序员"></a>适用人群： 1、对RPA和办公自动化有需求的初学者 2、想了解RPA、学习国产编程语言的程序员</h2><hr><p>共46课时<br>7小时25分45秒<br>2020-01-14更新  </p><hr><ul><li><a href="static/play.html#20397-468562">基本概念</a>  </li><li><a href="static/play.html#20397-468561">浏览器抓取数据</a>  </li><li><a href="static/play.html#20397-468560">数据填写</a>  </li><li><a href="static/play.html#20397-468559">查询Excel数据内容</a>  </li><li><a href="static/play.html#20397-468558">循环查询并填写</a>  </li><li><a href="static/play.html#20397-468557">业绩提成计算</a>  </li><li><a href="static/play.html#20397-468556">工资计算</a>  </li><li><a href="static/play.html#20397-468555">时间设定</a>  </li><li><a href="static/play.html#20397-468554">每隔5秒点击论坛图片</a>  </li><li><a href="static/play.html#20397-468553">每天定时抓取数据</a>  </li><li><a href="static/play.html#20397-468552">钉钉的使用</a>  </li><li><a href="static/play.html#20397-468551">微信的使用</a>  </li><li><a href="static/play.html#20397-468550">OCR的使用</a>  </li><li><a href="static/play.html#20397-468549">OCR（百度）的使用</a>  </li><li><a href="static/play.html#20397-468548">命令讲解</a>  </li><li><a href="static/play.html#20397-468547">实战演练</a>  </li><li><a href="static/play.html#20397-468546">命令讲解</a>  </li><li><a href="static/play.html#20397-468545">实战演练</a>  </li><li><a href="static/play.html#20397-468645">命令讲解</a>  </li><li><a href="static/play.html#20397-468644">实战演练</a>  </li><li><a href="static/play.html#20397-468544">命令讲解</a>  </li><li><a href="static/play.html#20397-468543">实战演练</a>  </li><li><a href="static/play.html#20397-468643">命令讲解</a>  </li><li><a href="static/play.html#20397-468642">实战演练</a>  </li><li><a href="static/play.html#20397-468641">命令讲解</a>  </li><li><a href="static/play.html#20397-468640">实战演练</a>  </li><li><a href="static/play.html#20397-468542">命令讲解（二）</a>  </li><li><a href="static/play.html#20397-468639">实战演练（二）</a>  </li><li><a href="static/play.html#20397-468541">命令讲解</a>  </li><li><a href="static/play.html#20397-468638">实战演练</a>  </li><li><a href="static/play.html#20397-487999">命令讲解</a>  </li><li><a href="static/play.html#20397-487998">实战演练</a>  </li><li><a href="static/play.html#20397-487997">命令讲解</a>  </li><li><a href="static/play.html#20397-487996">实战演练</a>  </li><li><a href="static/play.html#20397-487995">命令讲解</a>  </li><li><a href="static/play.html#20397-487994">实战演练</a>  </li><li><a href="static/play.html#20397-487993">命令讲解</a>  </li><li><a href="static/play.html#20397-487992">实战演练</a>  </li><li><a href="static/play.html#20397-487991">命令讲解</a>  </li><li><a href="static/play.html#20397-487990">实战演练</a>  </li><li><a href="static/play.html#20397-487989">命令讲解</a>  </li><li><a href="static/play.html#20397-487988">实战演练</a>  </li><li><a href="static/play.html#20397-487987">命令讲解</a>  </li><li><a href="static/play.html#20397-487986">实战演练</a>  </li><li><a href="static/play.html#20397-497994">命令讲解</a>  </li><li><a href="static/play.html#20397-497993">实战演练</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;【RPA】零基础学UiBot实战案例&quot;&gt;&lt;a href=&quot;#【RPA】零基础学UiBot实战案例&quot; class=&quot;headerlink&quot; title=&quot;【RPA】零基础学UiBot实战案例&quot;&gt;&lt;/a&gt;【RPA】零基础学UiBot实战案例&lt;/h1&gt;&lt;h2 id=&quot;适
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>cto-21211</title>
+    <link href="https://blog.p0q.top/2020-01-12/cto-21211/"/>
+    <id>https://blog.p0q.top/2020-01-12/cto-21211/</id>
+    <published>2020-01-11T16:00:00.000Z</published>
+    <updated>2020-03-19T17:15:23.001Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="抖音火山西瓜在线运营"><a href="#抖音火山西瓜在线运营" class="headerlink" title="抖音火山西瓜在线运营"></a>抖音火山西瓜在线运营</h1><h2 id="适用人群：-小孩，中年，老人"><a href="#适用人群：-小孩，中年，老人" class="headerlink" title="适用人群： 小孩，中年，老人"></a>适用人群： 小孩，中年，老人</h2><hr><p>共3课时<br>28分54秒<br>2020-01-12更新  </p><hr><ul><li><a href="static/play.html#21211-503570">抖音火山西瓜在线运营内容介绍</a>  </li><li><a href="static/play.html#21211-503569">抖音火山西瓜如何使用直播助手</a>  </li><li><a href="static/play.html#21211-503568">抖音火山西瓜如何使用手机直播</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;抖音火山西瓜在线运营&quot;&gt;&lt;a href=&quot;#抖音火山西瓜在线运营&quot; class=&quot;headerlink&quot; title=&quot;抖音火山西瓜在线运营&quot;&gt;&lt;/a&gt;抖音火山西瓜在线运营&lt;/h1&gt;&lt;h2 id=&quot;适用人群：-小孩，中年，老人&quot;&gt;&lt;a href=&quot;#适用人群：-小
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
