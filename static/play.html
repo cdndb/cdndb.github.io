@@ -112,7 +112,6 @@
     <script>
         if (Hls.isSupported()) {
             var hlsConfig = {
-                debug:true,
                 pLoader: function (config) {
                     let loader = new Hls.DefaultConfig.loader(config);
                     this.abort = () => loader.abort();
