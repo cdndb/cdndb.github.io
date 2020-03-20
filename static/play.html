@@ -110,10 +110,32 @@
 
     <video id="video" controls="controls"></video>
     <script>
-        var video = document.getElementById('video');
         if (Hls.isSupported()) {
-            var hls = new Hls();
+            var hlsConfig = {
+                pLoader: function (config) {
+                    let loader = new Hls.DefaultConfig.loader(config);
+                    this.abort = () => loader.abort();
+                    this.destroy = () => loader.destroy();
+                    this.load = (context, config, callbacks) => {
+                        let {type, url} = context;
 
+                        if (type === 'manifest') {
+                            console.log(`Manifest ${url} will be loaded.`);
+                        }
+
+                        if(context.url.match(/\.m3u8$/)){                        
+                            loader.load(context, config, {...callbacks, onSuccess:function(m3u8){
+                                m3u8.data = m3u8.data.replace('URI="http://ssdxf.cto.p0q.top/','"https://api-cto.go8.workers.dev/');
+                                callbacks.onSuccess.apply(null,arguments);
+                            }});
+                        }
+                        else{
+                            loader.load(context, config, callbacks);
+                        }
+                    };
+                }
+            };
+            var hls = new Hls(hlsConfig);           
             hls.loadSource(gethls());
             hls.attachMedia(video);
             hls.on(Hls.Events.MANIFEST_PARSED, function () {
