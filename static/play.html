@@ -23,6 +23,16 @@
   
 
   
+<script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script");
+	hm.src = "https://hm.baidu.com/hm.js?48d5a3ad1f7067b9ecb250e1ca7edd8f";
+	var s = document.getElementsByTagName("script")[0]; 
+	s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
 <link rel="alternate" href="/atom.xml" title="juststudy" type="application/atom+xml">
 </head>
@@ -110,7 +120,7 @@
 
     <video id="video" controls="controls"></video>
     <script>
-        if (Hls.isSupported()) {
+        
             var hlsConfig = {
                 pLoader: function (config) {
                     let loader = new Hls.DefaultConfig.loader(config);
@@ -143,23 +153,20 @@
             });
 
 
-        }
-        // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
-        // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element throught the `src` property.
-        // This is using the built-in support of the plain video element, without using hls.js.
-        // Note: it would be more normal to wait on the 'canplay' event below however on Safari (where you are most likely to find built-in HLS support) the video.src URL must be on the user-driven
-        // white-list before a 'canplay' event will be emitted; the last video event that can be reliably listened-for when the URL is not on the white-list is 'loadedmetadata'.
-        else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-            video.src = gethls();
-            video.addEventListener('loadedmetadata', function () {
-                video.play();
-            });
-
-
-        }
+       
     </script>
         <div>
             <script type="text/javascript" src="//js.users.51.la/20688837.js"></script>
+            <script type="text/javascript" src='//v1.cnzz.com/z_stat.php?id=1278699221&amp;web_id=1278699221'></script>
+            <script>
+                var _hmt = _hmt || [];
+                (function() {
+                  var hm = document.createElement("script");
+                  hm.src = "https://hm.baidu.com/hm.js?48d5a3ad1f7067b9ecb250e1ca7edd8f";
+                  var s = document.getElementsByTagName("script")[0]; 
+                  s.parentNode.insertBefore(hm, s);
+                })();
+            </script>
         </div>
 </body>
 
@@ -262,11 +269,11 @@
 <script>
     new Valine({
         el: '#vcomments',
-        app_id: '',
-        app_key: '',
+        app_id: 'mxW1pcieyz7vGpeP9Ne1GHp8-gzGzoHsz',
+        app_key: 'jGMRW8UP8mJmiGinCK2RP9xF',
         path: window.location.pathname,
         notify: 'false',
-        verify: 'false',
+        verify: 'true',
         avatar: 'mp',
         placeholder: '给我的文章加点评论吧~',
         recordIP: true
@@ -318,11 +325,6 @@
       </li>
       <li>
         
-        Powered by
-        
-        
-        <a href="https://hexo.io" target="_blank">Hexo</a> Theme <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank">Ayer</a>
-        
       </li>
     </ul>
     <ul class="list-inline">
@@ -370,10 +372,6 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/categories">分类</a>
-    </li>
-    
-    <li class="nav-item">
       <a class="nav-item-link" href="/tags">标签</a>
     </li>
     
@@ -411,13 +409,13 @@
   <div class="reward-box">
     
     <div class="reward-item">
-      <img class="reward-img" src="/images/alipay.jpg">
+      <img class="reward-img" src="/images/myalipay.jpg">
       <span class="reward-type">支付宝</span>
     </div>
     
     
     <div class="reward-item">
-      <img class="reward-img" src="/images/wechat.jpg">
+      <img class="reward-img" src="/images/mywechat.jpg">
       <span class="reward-type">微信</span>
     </div>
     
