@@ -79,31 +79,15 @@ var _hmt = _hmt || [];
 </head>
 
 <body>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script src="https://cdn.jsdelivr.net/gh/evlon/cdn/js/hls.min.js"></script>
     <script type="text/javascript">
-        function gethls() {
+         function gethls() {
             var hash = location.hash;
             if (hash) {
                 var matchs = /#(\d+)-(\d+)/.exec(hash);
                 if (matchs && matchs.length == 3) {
-                    return 'https://cdn.jsdelivr.net/gh/cdndb/cto-' + matchs[1] + '@tsfiles/' + matchs[2] +
-                        '/index.m3u8'
-                }
-                else{
-                    return hash.substr(1);
-                }
-            }
-
-            return '';
-        }
-
-        function gethls2() {
-            var hash = location.hash;
-            if (hash) {
-                var matchs = /#(\d+)-(\d+)/.exec(hash);
-                if (matchs && matchs.length == 3) {
-                    //https://api-cto.go8.workers.dev/ge/raw/10200/174120/index.m3u8
-                    return 'https://api-cto.go8.workers.dev/ge/raw/' + matchs[1] + '/' + matchs[2] + '/index.m3u8'
+                    //https://api-cto.go8.workers.dev/cto/10200-174120/index.m3u8
+                    return 'https://api-cto.go8.workers.dev/cto/' + matchs[1] + '-' + matchs[2] + '/index.m3u8'
                 }
                 else{
                     return hash.substr(1);
@@ -119,41 +103,13 @@ var _hmt = _hmt || [];
     </script>
 
     <video id="video" controls="controls"></video>
-    <script>
-        
-            var hlsConfig = {
-                pLoader: function (config) {
-                    let loader = new Hls.DefaultConfig.loader(config);
-                    this.abort = () => loader.abort();
-                    this.destroy = () => loader.destroy();
-                    this.load = (context, config, callbacks) => {
-                        let {type, url} = context;
-
-                        if (type === 'manifest') {
-                            console.log(`Manifest ${url} will be loaded.`);
-                        }
-
-                        if(context.url.match(/\.m3u8$/)){                        
-                            loader.load(context, config, {...callbacks, onSuccess:function(m3u8){
-                                m3u8.data = m3u8.data.replace('URI="http://ssdxf.cto.p0q.top/','URI="https://api-cto.go8.workers.dev/');
-                                callbacks.onSuccess.apply(null,arguments);
-                            }});
-                        }
-                        else{
-                            loader.load(context, config, callbacks);
-                        }
-                    };
-                }
-            };
-            var hls = new Hls(hlsConfig);           
+    <script> 
+            var hls = new Hls();           
             hls.loadSource(gethls());
             hls.attachMedia(video);
             hls.on(Hls.Events.MANIFEST_PARSED, function () {
                 video.play();
             });
-
-
-       
     </script>
         <div>
             <script type="text/javascript" src="//js.users.51.la/20688837.js"></script>
