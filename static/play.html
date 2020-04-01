@@ -115,6 +115,7 @@ var _hmt = _hmt || [];
                     spop('<strong>暂时不能播放，请等待<a href="share.html">好心人分享</a>!</strong>', 'error');
                 }
                 else{
+                    data = data.replace(/http\:\/\//g,'https://');
                     var blob = new Blob([data])
                     var url = URL.createObjectURL(blob);
                     var hls = new Hls();           
