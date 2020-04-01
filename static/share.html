@@ -68,84 +68,15 @@ var _hmt = _hmt || [];
     <meta name=viewport content="maximum-scale=1,minimum-scale=1,user-scalable=no,width=device-width,initial-scale=1">
     <meta name=renderer content=webkit>
     <meta name=format-detection content="telephone=yes">
-    <title>播放页面</title>
+    <title>如何分享</title>
   <meta name="generator" content="hexo-theme-yilia-plus">
-    <link href="https://cdn.jsdelivr.net/gh/evlon/cdn/spop/spop.min.css" rel="stylesheet" />
-    <style type="text/css">
-        video {
-            width: 100%;
-        }
-    </style>
+
 <link rel="alternate" href="/atom.xml" title="juststudy" type="application/atom+xml">
 </head>
 
 <body>
-    <script src="https://cdn.jsdelivr.net/gh/evlon/cdn/js/hls.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/evlon/cdn/spop/spop.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/axios@0.19.2/dist/axios.min.js"></script>
-    <script type="text/javascript">
-        
-         function gethls() {
-            var hash = location.hash;
-            if (hash) {
-                var matchs = /#(\d+)-(\d+)/.exec(hash);
-                if (matchs && matchs.length == 3) {
-                    //https://api-cto.go8.workers.dev/cto/10200-174120/index.m3u8
-                    return 'https://api-cto.go8.workers.dev/cto/' + matchs[1] + '-' + matchs[2];
-                }
-                else{
-                    return hash.substr(1);
-                }
-            }
-
-            return '';
-        }
-
-        window.addEventListener("hashchange", function (e) {
-            location.reload(true);
-        });
-    </script>
-
-    <video id="video" controls="controls"></video>
-    <script> 
-            axios.get(gethls())
-            .then(function(res){
-                var data = res.data;
-                if(data.match(/^error/)){
-                    spop('<strong>暂时不能播放，请等待<a href="share.html">好心人分享</a>!</strong>', 'error');
-                }
-                else{
-                    var blob = new Blob([data])
-                    var url = URL.createObjectURL(blob);
-                    var hls = new Hls();           
-                    hls.loadSource(url);
-                    hls.attachMedia(video);
-                    hls.on(Hls.Events.MANIFEST_PARSED, function () {
-                        video.play();
-                    });
-                }
-            })
-            .catch(function(e){
-                spop('<strong>暂时不能播放，出错了!</strong>', 'error');
-            })
-           
-    </script>
-        <div>
-            <script type="text/javascript" src="//js.users.51.la/20688837.js"></script>
-            <script type="text/javascript" src='//v1.cnzz.com/z_stat.php?id=1278699221&amp;web_id=1278699221'></script>
-            <script>
-                var _hmt = _hmt || [];
-                (function() {
-                  var hm = document.createElement("script");
-                  hm.src = "https://hm.baidu.com/hm.js?48d5a3ad1f7067b9ecb250e1ca7edd8f";
-                  var s = document.getElementsByTagName("script")[0]; 
-                  s.parentNode.insertBefore(hm, s);
-                })();
-            </script>
-        </div>
+    安全油猴，安装脚本：
 </body>
-
-
 </html>
       
       <!-- reward -->
@@ -215,7 +146,7 @@ var _hmt = _hmt || [];
     <a class="modal-close" href="javascript:;"><i class="ri-close-circle-line"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://cdndb.gitee.com/static/play.html" alt="微信分享二维码">
+      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://cdndb.gitee.com/static/share.html" alt="微信分享二维码">
     </div>
 </div>
 
