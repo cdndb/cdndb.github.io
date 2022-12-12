@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>5E74A9246C57AA3834CEF1D5</RequestId>
+  <HostId>51cto-storage.oss-cn-beijing-internal.aliyuncs.com</HostId>
+  <Key>edu/js/ueditor/themes/default/images/spacer.gif</Key>
+</Error>

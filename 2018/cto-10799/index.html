@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+   
+  <meta name="keywords" content="渗透测试,web技术,安全测试,防火墙,网络安全,web安全,free,免费,课程" />
+   
+  <meta name="description" content="Web安全渗透之Google Hacking实战指南 适用人群： ①Web安全工程师 ②Web渗透测试工程师 ③网络安全工程师 ④白帽子黑客 科技 渗透测试 web技术 安全测试 防火墙 网络安全 web安全" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>
+    Web安全渗透之Google Hacking实战指南 |  juststudy
+  </title>
+  <meta name="generator" content="hexo-theme-yilia-plus">
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  
+  
+<link rel="stylesheet" href="/css/main.css">
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/pace-js@1.0.2/pace.min.js"></script>
+  
+  
+
+  
+<script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script");
+	hm.src = "https://hm.baidu.com/hm.js?48d5a3ad1f7067b9ecb250e1ca7edd8f";
+	var s = document.getElementsByTagName("script")[0]; 
+	s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<link rel="alternate" href="/atom.xml" title="juststudy" type="application/atom+xml">
+</head>
+
+</html>
+
+<body>
+  <div id="app">
+    <main class="content">
+      <section class="outer">
+  <article id="post-cto-10799" class="article article-type-post" itemscope
+  itemprop="blogPost" data-scroll-reveal>
+
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h1 class="article-title sea-center" style="border-left:0" itemprop="name">
+  Web安全渗透之Google Hacking实战指南
+</h1>
+  
+
+    </header>
+    
+
+    
+    <div class="article-meta">
+      <a href="/2018/cto-10799/" class="article-date">
+  <time datetime="2018-08-25T00:00:00.000Z" itemprop="datePublished">2018-08-25</time>
+</a>
+      
+      
+      
+<div class="word_count">
+    <span class="post-time">
+        <span class="post-meta-item-icon">
+            <i class="ri-quill-pen-line"></i>
+            <span class="post-meta-item-text"> 字数统计:</span>
+            <span class="post-count">1.9k字</span>
+        </span>
+    </span>
+
+    <span class="post-time">
+        &nbsp; | &nbsp;
+        <span class="post-meta-item-icon">
+            <i class="ri-book-open-line"></i>
+            <span class="post-meta-item-text"> 阅读时长≈</span>
+            <span class="post-count">6分钟</span>
+        </span>
+    </span>
+</div>
+
+      
+    </div>
+    
+
+    
+    
+    <div class="tocbot"></div>
+
+
+
+
+
+    
+
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+
+      
+      <h3 id="Web安全渗透之Google-Hacking实战指南"><a href="#Web安全渗透之Google-Hacking实战指南" class="headerlink" title="Web安全渗透之Google Hacking实战指南"></a>Web安全渗透之Google Hacking实战指南</h3><h4 id="适用人群：-①Web安全工程师-②Web渗透测试工程师-③网络安全工程师-④白帽子黑客"><a href="#适用人群：-①Web安全工程师-②Web渗透测试工程师-③网络安全工程师-④白帽子黑客" class="headerlink" title="适用人群： ①Web安全工程师 ②Web渗透测试工程师 ③网络安全工程师 ④白帽子黑客"></a>适用人群： ①Web安全工程师 ②Web渗透测试工程师 ③网络安全工程师 ④白帽子黑客</h4><hr>
+<p><img src="/images/down-10799-66be900e7ae5dfa6a88486ceec55d04a.png" alt="Web安全渗透之Google Hacking实战指南" title="Web安全渗透之Google Hacking实战指南"><br>共1课时<br>43分28秒<br>2018-08-25更新  </p>
+<a id="more"></a>
+<hr>
+<h4 id="课程目标"><a href="#课程目标" class="headerlink" title="课程目标"></a>课程目标</h4><p>掌握Google Hacking技巧，掌握常用关键词的使用和组合，例如site、filetype、intitle、inurl、intext等。</p>
+<h4 id="适用人群"><a href="#适用人群" class="headerlink" title="适用人群"></a>适用人群</h4><p>①Web安全工程师 ②Web渗透测试工程师 ③网络安全工程师 ④白帽子黑客</p>
+<h4 id="课程简介"><a href="#课程简介" class="headerlink" title="课程简介"></a>课程简介</h4><p>【课程系列介绍】本课程归属陈鑫杰老师【Python&amp;Web安全渗透系列课】，大家可以按需进行购买：如果有Python功底，可以直接学Django课；如果有Web开发基础，可以直接学Web安全渗透测试课程。本系列课程包括《Python编程基础》、《Django Web基础入门》+ 《Django Web项目实战》、《Web安全渗透课》三部曲，是国内第一套基于思维导图方式进行授课的Python&amp;Web安全课，抛弃传统PPT翻书式授课，用更体系更科学的姿势带你学好这门课程。每一张技术图解、每一行代码、每一个项目案例，都由陈老师亲自操刀、精心设计并耐心讲解。而上一个由陈老师亲自打造的课程体系《CCIE魔鬼训练营》，已经累积了第一个100万在线学员，而手把手带的线下面授学员也已经遍布在国内最一线的互联网、网络&amp;安全企业、国企政企、系统集成商/服务商等单位。《CCIE魔鬼训练营》系列课偏向[安全防御]，而《Web安全渗透系列课》偏向[渗透攻击]。当然，除了区分，更有联系。《Web安全渗透系列课》是《CCIE魔鬼训练营》强有力的延伸拓展，使得我们在技术栈方面[从硬到软、从防到攻]。不仅如此，从求职面来讲，我们除了做网络工程、安全运维、安全服务、安全售后，更可以从事Web安全、渗透测试、安全审计等工作。【课程概述】安全行业的趋势正在从被动防御变为主动防御，一个技术栈合格的网络安全工程师，不仅仅要知道如何防御，更要懂得如何渗透/攻击。而渗透测试（Penetration Test）这门技术，跟我们网络安全岗位中经常听到的[安全服务]、[安全售后]、[安全运维]、[安全加固]等等都有所不同，后者研究的内容是如何做好安全防御，例如如何设计一个安全稳定的企业或数据中心网络架构？如何部署防火墙和入侵防御产品防止黑客入侵？如何设计一个VPN网络解决企业的数据通信安全？而前者（渗透测试），说白了，就是一门Hacking的技术！ 站在安全防御的对立面，核心技术面其实是[入侵]或[攻击]，模拟黑客对客户/自家服务/应用进行渗透测试（黑盒或百盒），并给出安全审计和评估报告。安全领域的攻防两方，无论哪一端真正深入进去其实都探不到底，学安全技术的，都应该心怀敬畏。例如防御端涉及到的包括安全架构（接入、汇聚、核心、DMZ、出口区、双活冗余、负载均衡…）、安全产品（防火墙、入侵检测/防御、UTM、VPN、网闸、防病毒…）、安全项目（等级保护、分级保护、安全集成…）。 而攻击端（渗透测试）这个领域也在不断细分，例如Web渗透测试、移动渗透测试、工控渗透测试 ….. 总之，应用、服务、流量在哪里，渗透和攻击就在那里。举个栗子：防御端经常听到的话题可能是：用哪套安全方案？这个防火墙放哪里好？用透明还是路由模式？有没有必要做主备，主备是否要双活？而攻击端经常听到的话题是：这个WAF怎么过？这个版本的“狗”做的很严啊，跑个脚本看看能不能过规则集？某知名安全防火墙出现远程命令执行漏洞可批量getshell、某知名CMS爆出SQL注入漏洞可致用户数据泄露 ….. ** 所以，要真正做到安全，只有攻防两端都做到，才能实现做到所谓的[知己知彼，百战百胜]。**而拼客学院（陈鑫杰老师）做了4年的实战型网络和安全课程《CCIE魔鬼训练营》（如今已经积累了100万在线学员，而线下面授学员也分布在国内最一线的互联网、网络&amp;安全企业、国企政企单位等） 这个课程体系的核心主要在于[安全防御]，例如我们学到的“网络协议与分析”、“企业网架构与内网安全”、“城域网/电信网设计与部署”、“VPN加密网络原理与部署”、“防火墙/IPS构建安全网络”等等…. 当然，[渗透测试]这个课程内容，早在15/16年的时候，训练营也已经增加了《BT5&amp;Metasploit渗透测试从入门到精通》这个内容。而《Web安全渗透系列课》，则在原有渗透课的基础上进行升级，聚焦和专注于当前最火热的Web应用安全领域，在这个课程中，我们将学习如何通过Google dork和Shodan hacking的方式对目标网站和业务服务器的信息和漏点探测，如何利用Web漏扫框架例如Burp/WVS/Appscan对目标站点执行安全评估，掌握常见的Web漏洞原理与利用方式，包括SQL注入、文件上传、Webshell编写、命令执行、XSS、CSRF等。基于不同漏洞点，我们可以拿到目前站点的数据库（拖库）、可以对网站进行”挂马”（Webshell），也可以进行客户端钓鱼或劫持等……既然是一门专注于Hacking的技术，在课程上面，我们不仅要懂原理，更力争实战，除了通过Web渗透靶机如OWASP BWA、DVWA、Mutillidae、PentesterLab进行实战演练和代码分析，也会在真实世界里教大家如何拿站，并且分享以下实战案例：如何通过Google找到常见SQL注入网站并getshell？如何通过Discuz通用注入漏洞或Apache Struts2命令执行漏洞批量拿站？如何批量拿下底下色情黑产网站？通过Shodan拿摄像头、WiFi设备、路由器进行旁注和内网渗透？当然，学渗透技术和Hacking技术，不是为了Hack别人，最重要的是，我们要通过Hack的方式，学会更好的为客户和自家Web应用和服务实现安全防御。Anyway，《Web安全渗透系列课》的加入， 使得拼客学院整个安全课程体系变得更加立体和丰满，实现了真正的[攻防两端]的安全技能闭环，更好的满足当前安全行业无论是甲方还是乙方对于高端安全人才的需求。在这里，为了让大家更直观的了解这门新的课程，这里出给部分课程截图、技术图解和代码内容。  </p>
+<hr>
+<h3 id="视频列表"><a href="#视频列表" class="headerlink" title="视频列表"></a>视频列表</h3><h4 id="Google-Hacking实战指南"><a href="#Google-Hacking实战指南" class="headerlink" title="Google Hacking实战指南"></a><a href="/static/play.html#10799-187560">Google Hacking实战指南</a></h4>
+      
+      <!-- reward -->
+      
+      <div id="reward-btn">
+        打赏
+      </div>
+      
+    </div>
+    
+    
+      <!-- copyright -->
+      
+        <div class="declare">
+          <ul class="post-copyright">
+            <li>
+              <i class="ri-copyright-line"></i>
+              <strong>版权声明： </strong s>
+              本博客所有文章除特别声明外，均采用 <a href="https://www.apache.org/licenses/LICENSE-2.0.html" rel="external nofollow"
+                target="_blank">Apache License 2.0</a> 许可协议。转载请注明出处！
+            </li>
+          </ul>
+        </div>
+        
+    <footer class="article-footer">
+      
+          
+<div class="share-btn">
+      <span class="share-sns share-outer">
+        <i class="ri-share-forward-line"></i>
+        分享
+      </span>
+      <div class="share-wrap">
+        <i class="arrow"></i>
+        <div class="share-icons">
+          
+          <a class="weibo share-sns" href="javascript:;" data-type="weibo">
+            <i class="ri-weibo-fill"></i>
+          </a>
+          <a class="weixin share-sns wxFab" href="javascript:;" data-type="weixin">
+            <i class="ri-wechat-fill"></i>
+          </a>
+          <a class="qq share-sns" href="javascript:;" data-type="qq">
+            <i class="ri-qq-fill"></i>
+          </a>
+          <a class="douban share-sns" href="javascript:;" data-type="douban">
+            <i class="ri-douban-line"></i>
+          </a>
+          <!-- <a class="qzone share-sns" href="javascript:;" data-type="qzone">
+            <i class="icon icon-qzone"></i>
+          </a> -->
+          
+          <a class="facebook share-sns" href="javascript:;" data-type="facebook">
+            <i class="ri-facebook-circle-fill"></i>
+          </a>
+          <a class="twitter share-sns" href="javascript:;" data-type="twitter">
+            <i class="ri-twitter-fill"></i>
+          </a>
+          <a class="google share-sns" href="javascript:;" data-type="google">
+            <i class="ri-google-fill"></i>
+          </a>
+        </div>
+      </div>
+</div>
+
+<div class="wx-share-modal">
+    <a class="modal-close" href="javascript:;"><i class="ri-close-circle-line"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <div class="wx-qrcode">
+      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://cdndb.gitee.io/2018/cto-10799/" alt="微信分享二维码">
+    </div>
+</div>
+
+<div id="share-mask"></div>
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E7%A7%91%E6%8A%80/" rel="tag">科技</a></li></ul>
+
+
+    </footer>
+
+  </div>
+
+  
+  
+  <nav class="article-nav">
+    
+      <a href="/2018/cto-12655/" class="article-nav-link">
+        <strong class="article-nav-caption">上一篇</strong>
+        <div class="article-nav-title">
+          
+            人人可以理解的区块链100问
+          
+        </div>
+      </a>
+    
+    
+      <a href="/2018/cto-1388/" class="article-nav-link">
+        <strong class="article-nav-caption">下一篇</strong>
+        <div class="article-nav-title">PMP选择合适的项目组织类型实战</div>
+      </a>
+    
+  </nav>
+
+
+  
+
+  
+  
+<!-- valine评论 -->
+<div id="vcomments-box">
+    <div id="vcomments">
+    </div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='https://cdn.jsdelivr.net/npm/valine@1.3.10/dist/Valine.min.js'></script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        app_id: 'mxW1pcieyz7vGpeP9Ne1GHp8-gzGzoHsz',
+        app_key: 'jGMRW8UP8mJmiGinCK2RP9xF',
+        path: window.location.pathname,
+        notify: 'false',
+        verify: 'true',
+        avatar: 'mp',
+        placeholder: '给我的文章加点评论吧~',
+        recordIP: true
+    });
+    const infoEle = document.querySelector('#vcomments .info');
+    if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+        infoEle.childNodes.forEach(function (item) {
+            item.parentNode.removeChild(item);
+        });
+    }
+</script>
+<style>
+    #vcomments-box {
+        padding: 5px 30px;
+    }
+
+    @media screen and (max-width: 800px) {
+        #vcomments-box {
+            padding: 5px 0px;
+        }
+    }
+
+    #vcomments-box #vcomments {
+        background-color: #fff;
+    }
+
+    .v .vlist .vcard .vh {
+        padding-right: 20px;
+    }
+
+    .v .vlist .vcard {
+        padding-left: 10px;
+    }
+</style>
+
+  
+
+  
+  
+  
+
+</article>
+</section>
+      <footer class="footer">
+  <div class="outer">
+    <ul class="list-inline">
+      <li>
+        &copy;
+        2015-2022
+        juststudy
+      </li>
+      <li>
+        
+      </li>
+    </ul>
+    <ul class="list-inline">
+      <li>
+        
+        
+        <span>
+  <i>PV:<span id="busuanzi_value_page_pv"></span></i>
+  <i>UV:<span id="busuanzi_value_site_uv"></span></i>
+</span>
+        
+      </li>
+      
+      <li>
+        <!-- cnzz统计 -->
+        
+        <script type="text/javascript" src='https://v1.cnzz.com/z_stat.php?id=1278699221&amp;web_id=1278699221'></script>
+        
+      </li>
+    </ul>
+  </div>
+</footer>
+      <div class="to_top">
+        <div class="totop" id="totop">
+  <i class="ri-arrow-up-line"></i>
+</div>
+      </div>
+    </main>
+    <aside class="sidebar">
+      <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+  <div class="logo">
+    <a href="/"><img src="/images/ayer-side.svg" alt="juststudy"></a>
+  </div>
+  
+  <ul class="nav nav-main">
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/">主页</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/archives">归档</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/tags">标签</a>
+    </li>
+    
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      
+      
+      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
+        <i class="ri-rss-line"></i>
+      </a>
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+    </aside>
+    <div id="mask"></div>
+
+<!-- #reward -->
+<div id="reward">
+  <span class="close"><i class="ri-close-line"></i></span>
+  <p class="reward-p"><i class="ri-cup-line"></i>请我喝杯咖啡吧~</p>
+  <div class="reward-box">
+    
+    <div class="reward-item">
+      <img class="reward-img" src="/images/myalipay.jpg">
+      <span class="reward-type">支付宝</span>
+    </div>
+    
+    
+    <div class="reward-item">
+      <img class="reward-img" src="/images/mywechat.jpg">
+      <span class="reward-type">微信</span>
+    </div>
+    
+  </div>
+</div>
+    
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/share.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+
+<script>
+  try {
+    var typed = new Typed("#subtitle", {
+      strings: ['面朝大海，春暖花开', '愿你一生努力，一生被爱', '想要的都拥有，得不到的都释怀'],
+      startDelay: 0,
+      typeSpeed: 200,
+      loop: true,
+      backSpeed: 100,
+      showCursor: true
+    });
+  } catch (err) {
+  }
+
+</script>
+
+
+
+
+<script src="/js/tocbot.min.js"></script>
+
+<script>
+  // Tocbot_v4.7.0  http://tscanlin.github.io/tocbot/
+  tocbot.init({
+    tocSelector: '.tocbot',
+    contentSelector: '.article-entry',
+    headingSelector: 'h1, h2, h3, h4, h5, h6',
+    hasInnerContainers: true,
+    scrollSmooth: true,
+    scrollContainer: 'main',
+    positionFixedSelector: '.tocbot',
+    positionFixedClass: 'is-position-fixed',
+    fixedSidebarOffset: 'auto',
+    onClick: (e) => {
+      $('.toc-link').removeClass('is-active-link');
+      $(`a[href=${e.target.hash}]`).addClass('is-active-link');
+      $(e.target.hash).scrollIntoView();
+      return false;
+    }
+  });
+</script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.css">
+<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.7.0/dist/js/jquery.justifiedGallery.min.js"></script>
+
+<script src="/js/ayer.js"></script>
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" style="display:none" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css">
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+
+<script>
+    function viewer_init() {
+        let pswpElement = document.querySelectorAll('.pswp')[0];
+        let $imgArr = document.querySelectorAll(('.article-entry img:not(.reward-img)'))
+
+        $imgArr.forEach(($em, i) => {
+            $em.onclick = () => {
+                // slider展开状态
+                // todo: 这样不好，后面改成状态
+                if (document.querySelector('.left-col.show')) return
+                let items = []
+                $imgArr.forEach(($em2, i2) => {
+                    let img = $em2.getAttribute('data-idx', i2)
+                    let src = $em2.getAttribute('data-target') || $em2.getAttribute('src')
+                    let title = $em2.getAttribute('alt')
+                    // 获得原图尺寸
+                    const image = new Image()
+                    image.src = src
+                    items.push({
+                        src: src,
+                        w: image.width || $em2.width,
+                        h: image.height || $em2.height,
+                        title: title
+                    })
+                })
+                var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, {
+                    index: parseInt(i)
+                });
+                gallery.init()
+            }
+        })
+    }
+    viewer_init()
+</script>
+
+
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+
+<script type="text/javascript" src="https://js.users.51.la/20544303.js"></script>
+
+    
+  </div>
+</body>
+
+</html>
